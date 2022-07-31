@@ -1,0 +1,12 @@
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\bin\Debug\BookStore.Data.dll
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\bin\Debug\BookStore.Data.pdb
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\obj\Debug\BookStore.Data.csproj.AssemblyReference.cache
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\obj\Debug\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\obj\Debug\BookStore.Data.dll
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\obj\Debug\BookStore.Data.pdb
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\bin\Debug\BookStore.Data.dll.config
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Goutham\Desktop\new-project\web Api s\API\userInfo\BookStore1\BookStore.Data\obj\Debug\BookStore.Data.csproj.CopyComplete
