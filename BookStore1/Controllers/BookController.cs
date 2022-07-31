@@ -37,6 +37,7 @@ namespace BookStore1.Controllers
             return Ok(book);
         }
 
+        //POST api/book
         public IHttpActionResult PostBook(Book book)
         {
             bool result = books.AddNewBook(book);
