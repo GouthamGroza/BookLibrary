@@ -21,12 +21,20 @@ namespace BookStore.Data.Repositories
 
         public bool AddNewBook(Book book)
         {
-            throw new NotImplementedException();
+            books.Add(book);
+            return true;
         }
 
         public bool DeleteBook(int id)
         {
-            throw new NotImplementedException();
+            var book = GetBook(id);
+            if (book == null)
+            {
+                return false;
+            }   
+            books.Remove(book);
+            return true;
+           
         }
 
         public List<Book> GetAllBooks()

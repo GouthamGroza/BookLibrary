@@ -22,8 +22,7 @@ namespace BookStore1.DependencyResolution {
     using StructureMap.Graph;
 	
     public class DefaultRegistry : Registry {
-        #region Constructors and Destructors
-
+      
         public DefaultRegistry() {
             Scan(
                 scan => {
@@ -35,6 +34,5 @@ namespace BookStore1.DependencyResolution {
             For<IbookRepository>().Use<BookRepository>();
         }
 
-        #endregion
     }
 }
